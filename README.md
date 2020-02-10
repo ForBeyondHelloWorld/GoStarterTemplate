@@ -5,4 +5,3 @@ We tried to follow the standards specified in [project-layout](https://github.co
 This project uses
     * ECHO
 
-TODO
